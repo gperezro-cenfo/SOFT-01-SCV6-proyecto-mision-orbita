@@ -3,7 +3,7 @@
 # Curso: SOFT-01 Principios de Programación 1 - Sección SCV6
 # Estudiante: Glenn Perez Rodríguez
 # Fecha: 03/10/2026
-# Versión: 1.0
+# Versión: 1.1
 # Descripción: Cálculo de recursos necesarios para una misión.
 # ============================================================
 
