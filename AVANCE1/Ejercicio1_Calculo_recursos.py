@@ -1,5 +1,5 @@
 # ============================================================
-# Archivo: ejercicio1_recursos.py
+# Archivo: ejercicio1_Calculo_recursos.py
 # Curso: SOFT-01 Principios de Programación 1 - Sección SCV6
 # Estudiante: Glenn Perez Rodríguez
 # Fecha: 03/10/2026
