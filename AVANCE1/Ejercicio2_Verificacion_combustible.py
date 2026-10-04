@@ -1,9 +1,9 @@
 # ============================================================
-# Archivo: ejercicio2_Verificacion_combustible.py
+# Archivo: ejercicio2_verificacion_combustible.py
 # Curso: SOFT-01 Principios de Programación 1 - Sección SCV6
 # Estudiante: Glenn Perez Rodriguez
 # Fecha: 04/10/2026
-# Versión: 1.0
+# Versión: 1.1
 # Descripción: Verificación de niveles de combustible.
 # ============================================================
 

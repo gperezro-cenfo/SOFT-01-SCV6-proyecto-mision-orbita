@@ -1,9 +1,9 @@
 # ============================================================
-# Archivo: ejercicio1_Calculo_recursos.py
+# Archivo: ejercicio1_calculo_recursos.py
 # Curso: SOFT-01 Principios de Programación 1 - Sección SCV6
 # Estudiante: Glenn Perez Rodríguez
 # Fecha: 03/10/2026
-# Versión: 1.1
+# Versión: 1.3
 # Descripción: Cálculo de recursos necesarios para una misión.
 # ============================================================
 

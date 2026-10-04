@@ -3,7 +3,7 @@
 # Curso: SOFT-01 Principios de Programación 1 - Sección SCV6
 # Estudiante: Glenn Perez Rodriguez
 # Fecha: 04/10/2026
-# Versión: 1.1
+# Versión: 1.2
 # Descripción: Verificación de recursos necesarios para la tripulación.
 # ============================================================
 
