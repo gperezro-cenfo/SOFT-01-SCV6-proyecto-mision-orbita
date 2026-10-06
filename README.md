@@ -20,6 +20,57 @@ El proyecto está compuesto por cuatro ejercicios:
 Cada ejercicio funciona de manera independiente y solicita sus datos por medio de la terminal.
 
 
+## Convenciones y estilos
+
+El código fuente del proyecto sigue las recomendaciones de estilo de PEP 8 para mantener una estructura uniforme, clara y legible.
+
+Las convenciones utilizadas son:
+
+Los nombres de los archivos se escriben en minúsculas y con guiones bajos.
+
+ejercicio1_calculo_recursos.py
+ejercicio2_verificacion_combustible.py
+
+Los nombres de las variables utilizan snake_case, se escriben en inglés y describen el dato que almacenan.
+
+mission_name
+crew_count
+fuel_available
+oxygen_required
+
+Las constantes se escriben completamente en mayúsculas y con guiones bajos.
+
+FUEL_RESERVE
+OXYGEN_DAILY
+TRIP_LEGS
+
+La indentación se realiza con cuatro espacios.
+
+Las líneas se mantienen dentro del límite recomendado de 79 caracteres cuando es posible.
+
+Se utilizan espacios alrededor de los operadores aritméticos, lógicos y de comparación.
+
+Las operaciones extensas y las condiciones compuestas se dividen entre varias líneas utilizando paréntesis.
+
+Los comentarios se escriben en español y explican el propósito de cada sección del programa.
+
+Los mensajes presentados al usuario se escriben en español.
+
+Cada archivo mantiene la misma organización general:
+
+Encabezado informativo.
+
+Declaración de constantes.
+
+Entrada de datos.
+
+Cálculos o procesamiento.
+
+Estructuras condicionales, cuando corresponda.
+
+Presentación de resultados.
+
+
 ## Requisitos
 
 Para ejecutar los programas se necesita:
