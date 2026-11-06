@@ -164,7 +164,7 @@ else:
     if provisions_days < survival_days:
         survival_days = provisions_days
 
-    # Identificación de todos los recursos limitantes sin listas
+    # Identificación de todos los recursos limitantes
     limiting_resources = ""
 
     if oxygen_days == survival_days:
